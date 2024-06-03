@@ -31,3 +31,11 @@ body {
     text-wrap: balance;
   }
 }
+.hover:hover{
+  
+  background: #eedfdf;
+}
+
+.overfff::-webkit-scrollbar{
+  display: none;
+}
